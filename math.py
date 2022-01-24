@@ -1,17 +1,15 @@
 #add implimentation
 def add(x,y):
-    return x+y
+    pass
     
 #subtract implimentation 
 def subtract(x,y):
-    return x-y          #on master branch
-        
-def multiply(x,y):
-    return x*y          #on bug456 branch
+    pass
 
+#multiply implimentation        
+def multiply(x,y):
+    pass
+
+#divide implimentation
 def divide(x,y):
-    if y ==0:                       #on master branch
-            return DIVIDE_BY_0_ERROR
-    else:
-        return x/y
-    
+    pass
