@@ -4,7 +4,7 @@ def add(x,y):
     
 #subtract implimentation 
 def subtract(x,y):
-    pass
+    return x-y
 
 #multiply implimentation        
 def multiply(x,y):
